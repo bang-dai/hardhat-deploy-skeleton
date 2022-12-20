@@ -6,6 +6,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 * clone or fork this project
 * install project with "yarn install"
+* copy .env.dist to .env && set your vars
 * done
 
 ## How this project is created ? see below
