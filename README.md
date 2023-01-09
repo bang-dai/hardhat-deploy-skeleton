@@ -54,3 +54,5 @@ yarn hardhat verify --network goerli ADDR PARAM (verify contract on testnet)
 * https://www.chaijs.com/api/bdd/
 * https://hardhat.org/tutorial/testing-contracts
 * https://docs.openzeppelin.com/contracts/4.x/api/token/erc20
+* https://docs.soliditylang.org/en/v0.8.10/natspec-format.html
+* https://www.npmjs.com/package/hardhat-docgen
