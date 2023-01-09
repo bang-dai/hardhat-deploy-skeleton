@@ -33,6 +33,7 @@ yarn add --dev hardhat @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ether
 ```shell
 yarn hardhat node (deploy on local and launch deployment)
 yarn hardhat deploy --network goerli (deploy on goerli and launch deployment)
+yarn run hardhat docgen (generate the doc)
 ```
 
 ## test command

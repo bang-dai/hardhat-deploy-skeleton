@@ -12,3 +12,4 @@ artifacts
 # Custom
 deployments
 .env
+docs
